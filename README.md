@@ -34,7 +34,7 @@ Showcasing my skills, projects, and experience through a clean, responsive and v
 # 📸 Portfolio Preview
 
 <p align="center">
-<img src="portfolio.png" width="100%">
+<img src="assets/hero.png" width="100%">
 </p>
 
 ---
@@ -94,18 +94,18 @@ codesoft_1
 
 # 📷 Screenshots
 
-<table>
+<table align="center">
 
 <tr>
 
 <td align="center">
-<img src="screenshots/home.png" width="450"><br><br>
-<b>🏠 Home</b>
+<img src="images/profile.jpg" width="320"><br><br>
+<b>👤 Profile</b>
 </td>
 
 <td align="center">
-<img src="screenshots/about.png" width="450"><br><br>
-<b>👨‍💻 About</b>
+<img src="images/project_1.png" width="320"><br><br>
+<b>🚀 Project 1</b>
 </td>
 
 </tr>
@@ -113,20 +113,18 @@ codesoft_1
 <tr>
 
 <td align="center">
-<img src="screenshots/projects.png" width="450"><br><br>
-<b>🚀 Projects</b>
+<img src="images/project_2.png" width="320"><br><br>
+<b>🚀 Project 2</b>
 </td>
 
 <td align="center">
-<img src="screenshots/contact.png" width="450"><br><br>
-<b>📬 Contact</b>
+<img src="images/project_3.png" width="320"><br><br>
+<b>🚀 Project 3</b>
 </td>
 
 </tr>
 
 </table>
-
----
 
 # 🚀 Getting Started
 
