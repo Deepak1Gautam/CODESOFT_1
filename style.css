@@ -1544,3 +1544,71 @@ nav ul li a.active {
     padding-bottom: 5px;
 
 }
+
+/* FLOATING PARTICLES */
+
+.particles {
+
+    position: fixed;
+
+    inset: 0;
+
+    pointer-events: none;
+
+    overflow: hidden;
+
+    z-index: -1;
+
+}
+
+
+.particle {
+
+    position: absolute;
+
+    display: block;
+
+    background: #38bdf8;
+
+    border-radius: 50%;
+
+    box-shadow: 0 0 10px #38bdf8;
+
+    animation: floatParticle linear infinite;
+
+}
+
+
+@keyframes floatParticle {
+
+    0% {
+
+        transform: translateY(0) translateX(0);
+
+        opacity: 0;
+
+    }
+
+    20% {
+
+        opacity: 1;
+
+    }
+
+    50% {
+
+        transform: translateY(-80px) translateX(30px);
+
+        opacity: .8;
+
+    }
+
+    100% {
+
+        transform: translateY(-180px) translateX(-30px);
+
+        opacity: 0;
+
+    }
+
+}
