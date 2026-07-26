@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06131f,50:0f172a,100:38bdf8&height=220&section=header&text=Deepak%20Gautam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <br>
 
