@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Animated Header -->
+<img src="./assets/banner.svg" width="100%" alt="Deepak Gautam Banner"/>
 
-<img src="assets/banner.svg" width="100%"/>
-
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Deepak+Gautam+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Python+Developer+%F0%9F%90%8D;Always+Learning+%26+Building+%F0%9F%9A%80" />
 
