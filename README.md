@@ -1,57 +1,191 @@
-<div align="center">
+<h1 align="center">🌟 Personal Portfolio Website</h1>
 
-<img src="./assets/banner.svg" width="100%" alt="Deepak Gautam Banner"/>
+<p align="center">
+  <b>A modern, responsive and interactive portfolio website built using HTML, CSS & JavaScript.</b>
+</p>
 
-<br><br>
+<p align="center">
+Showcasing my skills, projects, and experience through a clean, responsive and visually appealing portfolio.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Deepak+Gautam+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Python+Developer+%F0%9F%90%8D;Always+Learning+%26+Building+%F0%9F%9A%80" />
+<p align="center">
 
-<br><br>
+<a href="https://codesoft-1-ten.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-22C55E?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Deepak1Gautam/codesoft_1" target="_blank">
+<img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/github/stars/Deepak1Gautam/codesoft_1?style=flat-square"/>
+<img src="https://img.shields.io/github/forks/Deepak1Gautam/codesoft_1?style=flat-square"/>
+<img src="https://img.shields.io/github/repo-size/Deepak1Gautam/codesoft_1?style=flat-square"/>
+<img src="https://img.shields.io/github/last-commit/Deepak1Gautam/codesoft_1?style=flat-square"/>
+
+</p>
+
+---
+
+# 📸 Portfolio Preview
+
+<p align="center">
+<img src="portfolio.png" width="100%">
+</p>
+
+---
+
+# ✨ Features
+
+- 🎨 Modern & Minimal UI
+- 📱 Fully Responsive Design
+- ⚡ Smooth Animations
+- 🌙 Dark Theme
+- 💻 Skills Showcase
+- 🚀 Projects Section
+- 📄 Resume Download
+- 📬 Contact Form
+- 🔗 Social Media Links
+- ⚡ Fast Loading
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github"/>
+
+</p>
+
+---
+
+# 📂 Project Structure
+
+```text
+codesoft_1
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│
+├── css/
+│
+├── js/
+│
+├── screenshots/
+│   ├── home.png
+│   ├── about.png
+│   ├── projects.png
+│   └── contact.png
+│
+├── resume/
+│
+├── index.html
+│
+└── README.md
+```
+
+---
+
+# 📷 Screenshots
+
+<table>
+
+<tr>
+
+<td align="center">
+<img src="screenshots/home.png" width="450"><br><br>
+<b>🏠 Home</b>
+</td>
+
+<td align="center">
+<img src="screenshots/about.png" width="450"><br><br>
+<b>👨‍💻 About</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="screenshots/projects.png" width="450"><br><br>
+<b>🚀 Projects</b>
+</td>
+
+<td align="center">
+<img src="screenshots/contact.png" width="450"><br><br>
+<b>📬 Contact</b>
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Getting Started
+
+### Clone Repository
+
+```bash
+git clone https://github.com/Deepak1Gautam/codesoft_1.git
+```
+
+### Go to Project Folder
+
+```bash
+cd codesoft_1
+```
+
+### Run the Project
+
+Open **index.html** in your favourite browser.
+
+---
+
+# 🌐 Live Demo
+
+### 🔗 https://codesoft-1-ten.vercel.app
+
+---
+
+# 👨‍💻 About This Project
+
+This portfolio website was created to showcase my skills, projects, achievements, and resume in a professional and user-friendly way. It follows modern web development practices with a responsive layout, clean UI, and smooth user experience across all devices.
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/Deepak1Gautam">
-<img src="https://img.shields.io/badge/GitHub-Deepak1Gautam-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" height="45">
 </a>
 
-<a href="https://www.linkedin.com/in/deepak-gautam-82126b388">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/deepak-gautam-eng">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45">
 </a>
 
-<a href="mailto:deepakgautameng@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
+</p>
 
 ---
 
 <div align="center">
 
-## 🚀 About Me
+### ⭐ If you found this project helpful, don't forget to Star this repository!
 
 </div>
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+---
 
-👋 Hi, I'm **Deepak Gautam**, a passionate **Computer Engineering student** and aspiring **Software Engineer**.
-
-🎓 Currently pursuing **B.Tech in Computer Engineering** at **Shri Vishwakarma Skill University**.
-
-💻 I enjoy building:
-
-- 🌐 Modern and responsive websites
-- ⚡ Interactive frontend experiences
-- 🐍 Python applications
-- 🧠 Data Structures & Algorithms solutions
-- 🚀 Creative software projects
-
-<br>
-
-### 🔥 Currently Learning
-
-```text
-Frontend Development     ████████████████████ 90%
-Python & Django          ████████████████░░░░ 80%
-Data Structures          ██████████████░░░░░░ 75%
-Backend Development      ████████████░░░░░░░░ 65%
+<p align="center">
+Made with ❤️ by <b>Deepak Gautam</b>
+</p>
