@@ -12,7 +12,7 @@ Modern • Responsive • Interactive • Animated
 
 <p align="center">
 
-<a codesoft-1-ten.vercel.app>
+<a href="https://codesoft-1-ten.vercel.app">
 <img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
 
 </a>
@@ -134,7 +134,7 @@ Portfolio/
 
 ### 🌐 Live Website
 
-https://codesoft-1.vercel.app
+https://codesoft-1-ten.vercel.app
 
 ### 📂 GitHub Repository
 
