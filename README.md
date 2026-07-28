@@ -1,299 +1,173 @@
-````md
-<h1 align="center">🌟 Personal Portfolio Website</h1>
+<!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <b>A modern, responsive and interactive portfolio website built using HTML, CSS & JavaScript.</b>
+  <img src="assets/banner.png" alt="Portfolio Banner" width="100%">
 </p>
+
+<h1 align="center">🚀 Personal Portfolio Website</h1>
 
 <p align="center">
-This portfolio showcases my skills, projects, education, achievements, and contact information through a clean, responsive, and visually appealing interface.
+Modern • Responsive • Interactive • Animated
 </p>
-
-<p align="center">
-  <img src="preview.png" width="100%" alt="Portfolio Preview">
-</p>
-
----
 
 <p align="center">
 
 <a href="https://codesoft-1.vercel.app">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-Visit-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
+
 </a>
 
 <a href="https://github.com/Deepak1Gautam/CODESOFT_1">
-<img src="https://img.shields.io/badge/💻_Source_Code-GitHub-black?style=for-the-badge&logo=github">
-</a>
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github">
 
-<a href="https://github.com/Deepak1Gautam">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://www.linkedin.com/in/deepak-gautam-eng">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+
 </a>
 
 </p>
 
 ---
 
-# 📖 About The Project
+# 🌟 About
 
-The **Personal Portfolio Website** is a fully responsive website developed as **Task 1** of the **CodSoft Web Development Internship**.
+A modern, responsive and interactive **Personal Portfolio Website**
+built using **HTML, CSS & JavaScript**.
 
-The website introduces me professionally by presenting my profile, skills, projects, education, resume, and contact information in an elegant and user-friendly manner.
+The website showcases my
 
-The main objective of this project is to build a modern portfolio that works smoothly across all devices while maintaining a clean UI and great user experience.
+- 👋 Introduction
+- 💻 Skills
+- 🚀 Projects
+- 📄 Resume
+- 📞 Contact Details
+
+with beautiful animations and responsive design.
 
 ---
 
 # ✨ Features
 
-- 🎨 Modern User Interface
-- 📱 Fully Responsive Design
-- 🌙 Dark Mode Support
-- ⚡ Smooth Scrolling
-- 💻 Animated Sections
-- 📄 Resume Download
-- 🧑 About Section
-- 🚀 Projects Showcase
-- 🛠 Skills Section
-- 📬 Contact Form
-- 🔗 Social Media Links
-- 🎯 Clean Navigation
-- 📷 Attractive Layout
-- ⚡ Fast Loading
-- 💯 Beginner Friendly Code
+✅ Fully Responsive
+
+✅ Modern UI
+
+✅ Smooth Scrolling
+
+✅ AOS Animations
+
+✅ Dark Theme
+
+✅ Download Resume
+
+✅ Contact Form
+
+✅ Social Links
+
+✅ Mobile Friendly
 
 ---
 
 # 🛠 Tech Stack
 
-| Technology | Usage |
-|------------|--------|
-| HTML5 | Structure |
-| CSS3 | Styling |
-| JavaScript | Functionality |
-| Font Awesome | Icons |
-| Google Fonts | Typography |
-| AOS Library | Scroll Animations |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github"/>
+
+</p>
+
+---
+
+# 📷 Project Gallery
+
+<p align="center">
+
+<img src="screenshots/home.png" width="48%">
+
+<img src="screenshots/about.png" width="48%">
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="screenshots/skills.png" width="48%">
+
+<img src="screenshots/projects.png" width="48%">
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="screenshots/contact.png" width="48%">
+
+<img src="screenshots/footer.png" width="48%">
+
+</p>
 
 ---
 
 # 📂 Folder Structure
 
 ```text
-CODESOFT_1
+Portfolio/
 │
 ├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── resume.pdf
-│
+├── css/
+├── js/
+├── screenshots/
 ├── index.html
-├── style.css
-├── script.js
-├── preview.png
-├── about.png
-├── skills.png
-├── projects.png
-├── contact.png
 └── README.md
 ```
 
 ---
 
-# 📸 Website Screenshots
+# 📊 Project Highlights
 
-## 🏠 Home Page
-
-<p align="center">
-<img src="preview.png" width="90%">
-</p>
-
----
-
-## 👨 About Section
-
-<p align="center">
-<img src="about.png" width="90%">
-</p>
+| Feature | Status |
+|----------|---------|
+| Responsive Design | ✅ |
+| Dark Theme | ✅ |
+| Animations | ✅ |
+| Mobile Friendly | ✅ |
+| Resume Download | ✅ |
+| Contact Form | ✅ |
 
 ---
 
-## 🛠 Skills Section
+# 🚀 Live Preview
 
-<p align="center">
-<img src="skills.png" width="90%">
-</p>
-
----
-
-## 🚀 Projects Section
-
-<p align="center">
-<img src="projects.png" width="90%">
-</p>
-
----
-
-## 📞 Contact Section
-
-<p align="center">
-<img src="contact.png" width="90%">
-</p>
-
----
-
-# 🚀 Getting Started
-
-## Clone Repository
-
-```bash
-git clone https://github.com/Deepak1Gautam/CODESOFT_1.git
-```
-
----
-
-## Go to Project Folder
-
-```bash
-cd CODESOFT_1
-```
-
----
-
-## Open Project
-
-Simply open
-
-```
-index.html
-```
-
-inside your browser.
-
----
-
-# 💡 Project Highlights
-
-✔ Responsive Design
-
-✔ Clean Code
-
-✔ Modern Layout
-
-✔ Interactive UI
-
-✔ Mobile Friendly
-
-✔ Resume Download
-
-✔ Easy Navigation
-
-✔ Fast Performance
-
-✔ Beautiful Animations
-
-✔ Beginner Friendly
-
----
-
-# 🎯 Learning Outcomes
-
-This project helped me learn:
-
-- Responsive Web Design
-- HTML5 Best Practices
-- CSS Flexbox
-- CSS Grid
-- JavaScript DOM
-- Event Handling
-- Scroll Animations
-- UI/UX Design
-- Portfolio Development
-- Website Deployment
-
----
-
-# 🌐 Live Demo
-
-### 🚀 Portfolio Website
+### 🌐 Live Website
 
 https://codesoft-1.vercel.app
 
----
+### 📂 GitHub Repository
 
-# 📄 Resume
-
-Download Resume directly from the website.
-
----
-
-# 🤝 Connect With Me
-
-### GitHub
-
-https://github.com/Deepak1Gautam
-
-### LinkedIn
-
-https://www.linkedin.com/in/deepak-gautam-eng
-
----
-
-# 📈 Future Improvements
-
-- Blog Section
-- Light & Dark Theme Toggle
-- More Project Cards
-- Backend Contact Form
-- Project Filtering
-- Certificates Section
-- Experience Timeline
-- Testimonials
-- Animations Enhancement
-- SEO Optimization
-
----
-
-# ⭐ Support
-
-If you found this project useful,
-
-please consider giving it a ⭐ on GitHub.
-
-It motivates me to build more amazing projects.
-
----
-
-# 📜 License
-
-This project is available under the **MIT License**.
+https://github.com/Deepak1Gautam/CODESOFT_1
 
 ---
 
 # 👨‍💻 Author
 
-**Deepak Gautam**
+### Deepak Gautam
 
-Frontend Developer
-
-HTML • CSS • JavaScript
-
-GitHub:
-https://github.com/Deepak1Gautam
-
-LinkedIn:
-https://www.linkedin.com/in/deepak-gautam-eng
+Front-End Web Developer
 
 ---
 
-<h3 align="center">
-⭐ Thanks for Visiting ⭐
-</h3>
+<p align="center">
+
+### ⭐ If you like this project, don't forget to Star the Repository ⭐
+
+</p>
+
+---
 
 <p align="center">
 Made with ❤️ using HTML, CSS & JavaScript
 </p>
-````
