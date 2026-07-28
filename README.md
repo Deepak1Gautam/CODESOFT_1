@@ -12,7 +12,7 @@ Modern • Responsive • Interactive • Animated
 
 <p align="center">
 
-<a href="https://codesoft-1.vercel.app">
+<a codesoft-1-ten.vercel.app>
 <img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
 
 </a>
@@ -84,19 +84,9 @@ with beautiful animations and responsive design.
 
 <p align="center">
 
-<img src="screenshots/home.png" width="48%">
+<img src="screenshots/project_1.png" width="48%">
 
-<img src="screenshots/about.png" width="48%">
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="screenshots/skills.png" width="48%">
-
-<img src="screenshots/projects.png" width="48%">
+<img src="screenshots/project_2.png" width="48%">
 
 </p>
 
@@ -104,11 +94,11 @@ with beautiful animations and responsive design.
 
 <p align="center">
 
-<img src="screenshots/contact.png" width="48%">
-
-<img src="screenshots/footer.png" width="48%">
+<img src="screenshots/project_3.png" width="48%">
 
 </p>
+
+<br>
 
 ---
 
