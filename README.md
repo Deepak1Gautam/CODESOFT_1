@@ -82,23 +82,18 @@ with beautiful animations and responsive design.
 
 # 📷 Project Gallery
 
+## 📷 Project Gallery
+
 <p align="center">
-
-<img src="screenshots/project_1.png" width="48%">
-
-<img src="screenshots/project_2.png" width="48%">
-
+  <img src="images/project_1.png" alt="Project 1" width="48%">
+  <img src="images/project_2.png" alt="Project 2" width="48%">
 </p>
 
 <br>
 
 <p align="center">
-
-<img src="screenshots/project_3.png" width="48%">
-
+  <img src="images/project_3.png" alt="Project 3" width="48%">
 </p>
-
-<br>
 
 ---
 
